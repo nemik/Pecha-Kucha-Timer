@@ -1,3 +1,17 @@
  A very simple countdown timer for practicing Pecha Kucha presentations and their 20-second slides. Made this for my girlfriend to practice her presentation with.
 
  It should run on any MIDP2.0 J2ME phone though it probably could work on MIDP1.0 as well. I only tried it on my K750i.
+
+ If you push the OK button or middle click with a joystick, it will reset back to 20. It just loops 20-second countdowns over and over.
+
+ The GUI is also VERRRRY ghetto. Since J2ME doesn't have a font big enough for the large numbers I wanted, I created each number as a PNG using MS Paint. :)
+
+To try it on your phone:
+
+0. download the repo using the 'Download' link at the top of this GitHub project.
+1. unzip/untar it.
+2. copy the JAR file from deployed/DefaultColorPhone/pechakuchatimer.jar to your phone. either send it via Bluettoth or copy to a memory card or something
+3. launch and install it on the phone
+4. run it from the phone
+
+Enjoy!
