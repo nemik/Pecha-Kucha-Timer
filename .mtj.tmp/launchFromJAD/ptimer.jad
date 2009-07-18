@@ -1,0 +1,7 @@
+MIDlet-Jar-Size: 44807
+MIDlet-Jar-URL: pechakuchatimer.jar
+MIDlet-Name: PechaKuchaTimer
+MIDlet-Vendor: nemik
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
